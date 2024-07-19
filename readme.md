@@ -1,5 +1,5 @@
 ### How to Install MongoDB 6.0.3 on Ubuntu 22.04/20.4 
-                                        Jammy / focal
+###                                       Jammy / focal
 - Verify MongoDb Installed or Not
 ```sh
 mongod --version  
@@ -63,3 +63,6 @@ sudo service mongod restart
 ```sh
 sudo lsof -i | grep mongo
 ```
+- show dbs
+- use admin
+- 
