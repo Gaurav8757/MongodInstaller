@@ -1,4 +1,5 @@
-### How to Install MongoDB 6.0.3 on Ubuntu 22.04
+### How to Install MongoDB 6.0.3 on Ubuntu 22.04/20.4 
+                                        Jammy / focal
 - Verify MongoDb Installed or Not
 ```sh
 mongod --version  
